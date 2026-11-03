@@ -59,11 +59,6 @@ A web-based booking management system developed as part of my Diploma in Compute
 - Computer networking and infrastructure.
 - Software development workflows and AI-assisted coding.
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhankamil&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhankamil&layout=compact&theme=github_dark&hide_border=true)
 
 ## 📫 Connect With Me
 
