@@ -1,22 +1,22 @@
 # Hi, I'm Ilhan 👋
 
-🎓 Computer Science Undergraduate | 💻 Aspiring Software Developer | 🌐 IT & Infrastructure Enthusiast
+ Computer Science Undergraduate | Aspiring Software Developer |  IT & Infrastructure Enthusiast
 
 I'm a Computer Science student with a background in IT service management, technical support, and software development. I previously worked as an IT Service Desk Analyst at Accenture, supporting enterprise IT operations for Sime Darby Guthrie.
 
 I'm interested in building practical software solutions, understanding how systems work behind the scenes, and continuously improving my technical skills.
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science at Universiti Utara Malaysia (UUM).
-- 💼 Former IT Service Desk Analyst at Accenture, supporting Sime Darby Guthrie.
-- 🎓 Diploma in Computer Science from Universiti Teknologi Malaysia (UTM), graduating with a CGPA of 3.81.
-- 🏆 Dean's List recipient throughout my diploma studies.
-- 💻 Interested in software development, networking, cybersecurity, and IT infrastructure.
-- 🛠️ Enjoy experimenting with development tools and AI-assisted coding workflows.
-- 📚 Continuously learning and building projects to strengthen my technical foundation.
+-  Currently pursuing a Bachelor's degree in Computer Science at Universiti Utara Malaysia (UUM).
+-  Former IT Service Desk Analyst at Accenture, supporting Sime Darby Guthrie.
+-  Diploma in Computer Science from Universiti Teknologi Malaysia (UTM), graduating with a CGPA of 3.81.
+-  Dean's List recipient throughout my diploma studies.
+-  Interested in software development, networking, cybersecurity, and IT infrastructure.
+-  Enjoy experimenting with development tools and AI-assisted coding workflows.
+-  Continuously learning and building projects to strengthen my technical foundation.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Programming & Web Development**
 
@@ -32,7 +32,7 @@ I'm interested in building practical software solutions, understanding how syste
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 💻 Featured Projects
+## Featured Projects
 
 ### 1. Campus Expense Tracker
 
@@ -51,7 +51,7 @@ A web-based booking management system developed as part of my Diploma in Compute
 - **Focus:** Front-end development, booking management, and user interface design.
 - **Repository:** [View Project](https://github.com/ilhankamil/PROJECT_G01_38)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Object-Oriented Programming and Java development.
 - Data Structures and Algorithms.
